@@ -1,0 +1,4 @@
+C:\Users\fbancaso\Documents\MovieDB\MovieDB.Services\bin\Debug\MovieDB.Services.dll
+C:\Users\fbancaso\Documents\MovieDB\MovieDB.Services\bin\Debug\MovieDB.Services.pdb
+C:\Users\fbancaso\Documents\MovieDB\MovieDB.Services\obj\Debug\MovieDB.Services.dll
+C:\Users\fbancaso\Documents\MovieDB\MovieDB.Services\obj\Debug\MovieDB.Services.pdb

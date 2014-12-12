@@ -2,3 +2,7 @@ C:\Users\fbancaso\Documents\MovieDB\MovieDB.NHibernate.SqlServer\bin\Debug\Movie
 C:\Users\fbancaso\Documents\MovieDB\MovieDB.NHibernate.SqlServer\bin\Debug\MovieDB.NHibernate.SqlServer.pdb
 C:\Users\fbancaso\Documents\MovieDB\MovieDB.NHibernate.SqlServer\obj\Debug\MovieDB.NHibernate.SqlServer.dll
 C:\Users\fbancaso\Documents\MovieDB\MovieDB.NHibernate.SqlServer\obj\Debug\MovieDB.NHibernate.SqlServer.pdb
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\MovieDB.NHibernate.SqlServer.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\MovieDB.NHibernate.SqlServer.pdb
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\obj\Debug\MovieDB.NHibernate.SqlServer.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\obj\Debug\MovieDB.NHibernate.SqlServer.pdb

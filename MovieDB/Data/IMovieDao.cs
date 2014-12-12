@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace MovieDB.Data
 {
-    interface IMovieDao
+    public interface IMovieDao
     {
+        Movie AddMovie(Movie movie);
+        void DeleteMovie(Movie movie);
+        IList<Movie> GetByGenre(string genre);
+        IList<Movie> GetByProductionCompany(string productionCompany);
+        IList<Movie> GetList();
     }
 }

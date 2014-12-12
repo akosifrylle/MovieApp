@@ -39,10 +39,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Data\IGenreDao.cs" />
+    <Compile Include="Data\IMovieDao.cs" />
+    <Compile Include="Data\IProductionCompanyDao.cs" />
+    <Compile Include="Genre.cs" />
+    <Compile Include="Movie.cs" />
+    <Compile Include="ProductionCompany.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Data\" />
     <Folder Include="Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

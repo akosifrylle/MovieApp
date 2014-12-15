@@ -6,3 +6,10 @@ C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\bin\Debug\MovieDB.Services
 C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\bin\Debug\MovieDB.Services.pdb
 C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\obj\Debug\MovieDB.Services.dll
 C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\obj\Debug\MovieDB.Services.pdb
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\bin\Debug\FluentNHibernate.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\bin\Debug\Iesi.Collections.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\bin\Debug\NHibernate.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\bin\Debug\FluentNHibernate.xml
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\bin\Debug\Iesi.Collections.xml
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\bin\Debug\NHibernate.xml
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.Services\obj\Debug\MovieDB.Services.csprojResolveAssemblyReference.cache

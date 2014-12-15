@@ -6,3 +6,14 @@ C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\Movi
 C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\MovieDB.NHibernate.SqlServer.pdb
 C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\obj\Debug\MovieDB.NHibernate.SqlServer.dll
 C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\obj\Debug\MovieDB.NHibernate.SqlServer.pdb
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\FluentNHibernate.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\Iesi.Collections.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\MovieDB.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\MovieDB.NHibernate.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\NHibernate.dll
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\MovieDB.NHibernate.pdb
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\MovieDB.pdb
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\FluentNHibernate.xml
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\Iesi.Collections.xml
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\bin\Debug\NHibernate.xml
+C:\Users\fbancaso\Documents\MovieApp\MovieDB.NHibernate.SqlServer\obj\Debug\MovieDB.NHibernate.SqlServer.csprojResolveAssemblyReference.cache

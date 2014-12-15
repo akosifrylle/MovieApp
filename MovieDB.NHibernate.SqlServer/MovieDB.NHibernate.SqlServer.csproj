@@ -50,6 +50,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Maps\GenreMap.cs" />
+    <Compile Include="Maps\MovieMap.cs" />
+    <Compile Include="Maps\ProductionCompanyMap.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>

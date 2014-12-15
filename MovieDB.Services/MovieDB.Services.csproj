@@ -48,10 +48,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GenreService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MovieDB.NHibernate\MovieDB.NHibernate.csproj">
+      <Project>{1c6636a7-a125-496b-bfbe-14f4bb02a128}</Project>
+      <Name>MovieDB.NHibernate</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MovieDB\MovieDB.csproj">
+      <Project>{e8373490-a330-4292-9a41-970bda5b4884}</Project>
+      <Name>MovieDB</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

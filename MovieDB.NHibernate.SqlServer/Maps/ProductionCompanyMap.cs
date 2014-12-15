@@ -3,11 +3,11 @@ using MovieDB.NHibernate.Repo;
 
 namespace MovieDB.NHibernate.SqlServer.Maps
 {
-    public class GenreMap : ClassMap<GenreRepo>
+    public class ProductionCompanyMap : ClassMap<ProductionCompanyRepo>
     {
-        public GenreMap()
+        public ProductionCompanyMap()
         {
-            Table("Genre");
+            Table("ProductionComapny");
             Id(x => x.Id);
             Map(x => x.Name);
         }
